@@ -14,12 +14,12 @@ export default function Home() {
           <div className="bg-[#1a1a1a] text-white text-xs sm:text-sm py-2">
             <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center px-4">
               <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 text-center sm:text-left">
-                <span>+025-95-35-94</span>
-                <span className="hidden sm:inline">email@email.com</span>
-                <span className="hidden md:inline">1734 Stonecoal Road</span>
+                <span>+07 230 230</span>
+                <span className="hidden sm:inline">griffins-insight@gmail.com</span>
+                <span className="hidden md:inline">1734 River Road</span>
               </div>
               <div className="flex gap-4 mt-2 sm:mt-0">
-                <span>USD</span>
+                <span>Ksh</span>
                 <span>My Account</span>
               </div>
             </div>
@@ -30,7 +30,7 @@ export default function Home() {
             <div className="container mx-auto px-4">
               <div className="flex items-center justify-between gap-4">
                 <Link href="/" className="text-2xl font-bold">
-                  Electro<span className="text-red-600">.</span>
+                  Griffins<span className="text-red-600">.</span>
                 </Link>
 
                 <div className="hidden md:flex flex-1 max-w-2xl">
